@@ -95,7 +95,8 @@ endmodule
 ## Truth Table :
 ![image](https://github.com/Pradeeppachiyappan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118707347/d2ee18f3-9fef-4f3a-9621-2d8007e8b257)
 ## Output waveform:
-![image](https://github.com/Pradeeppachiyappan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118707347/b2ec8f4f-a7c6-459f-bf6f-e0ed801cc450)
+![image](https://github.com/Pradeeppachiyappan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118707347/f2fa01e7-c745-4aa7-8436-d4d456c26305)
+
 
 ## Result:
 Thus the truth table for given gates are verified.
